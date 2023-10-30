@@ -1,1 +1,1 @@
-# Snake-and-ladder
+# SnakeAndLadder
